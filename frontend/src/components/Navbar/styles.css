@@ -13,13 +13,12 @@ header{
 }
 
 .dsmovie-nav-content h1{
-    margin: 0 0 0 20px;
+    margin: 0 0 0 0;
     font-weight: 700;
     font-size: 24px;
 }
 
 .dsmovie-contact-container{
-    margin: 0 0 0 1010px;
     display: flex;
     align-items: center;
 }
