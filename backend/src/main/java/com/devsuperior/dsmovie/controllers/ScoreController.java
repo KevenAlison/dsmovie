@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.devsuperior.dsmovie.dto.MovieDTO;
-import com.devsuperior.dsmovie.dto.ScoreDTO;
+import com.devsuperior.dsmovie.DTO.MovieDTO;
+import com.devsuperior.dsmovie.DTO.ScoreDTO;
 import com.devsuperior.dsmovie.services.ScoreService;
 
 @RestController
